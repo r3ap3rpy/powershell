@@ -2,6 +2,6 @@
 
 > List of videos:
  - [FSWatcher](/FSWatcher.ps1)
- - [Speech.ps1](/Speech.ps1)
+ - [Speech](/Speech.ps1)
 
 There is not much in here.
